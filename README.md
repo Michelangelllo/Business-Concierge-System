@@ -14,6 +14,17 @@ While restaurants are a primary use case, the core system is built to support **
 The goal isn’t to “add a chatbot.”  
 The goal is to solve a real business problem:  
 
+## Demo Screenshots
+
+![Workflow overview](Screenshots/Cworkflow.png)
+![Output1](Screenshots/Chat1.png)
+![Output2](Screenshots/Chat2.png)
+![Output3](Screenshots/Chat3.png)
+![Final output](Screenshots/Calendar.png)
+
+
+
+
 > **How do businesses guide customers from first interaction to conversion while delivering a human-level experience at scale?**
 
 ---
@@ -246,12 +257,3 @@ We don’t automate conversations.
 We design **guided customer experiences that convert.**
 
 ---
-
-## Demo Screens
-## Demo Screenshots
-
-![Workflow overview](Screenshots/Cworkflow.png)
-![Output1](Screenshots/Chat1.png)
-![Output2](Screenshots/Chat2.png)
-![Output3](Screenshots/Chat3.png)
-![Final output](Screenshots/Calendar.png)
