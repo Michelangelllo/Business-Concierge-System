@@ -16,16 +16,6 @@ The goal is to solve a real business problem:
 
 > **How do businesses guide customers from first interaction to conversion while delivering a human-level experience at scale?**
 
----
-
-## Demo Screenshots
-
-![Workflow overview](Screenshots/Cworkflow.png)
-![Output1](Screenshots/Chat1.png)
-![Output2](Screenshots/Chat2.png)
-![Output3](Screenshots/Chat3.png)
-![Final output](Screenshots/Calendar.png)
-
 
 ---
 
@@ -106,6 +96,17 @@ The flow supports:
 - automated reminders  
 - weather-related alerts  
 - internal notifications to the business  
+
+---
+
+## Demo Screenshots
+
+![Workflow overview](Screenshots/Cworkflow.png)
+![Output1](Screenshots/Chat1.png)
+![Output2](Screenshots/Chat2.png)
+![Output3](Screenshots/Chat3.png)
+![Final output](Screenshots/Calendar.png)
+
 
 ---
 
