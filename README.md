@@ -250,8 +250,8 @@ We design **guided customer experiences that convert.**
 ## Demo Screens
 ## Demo Screenshots
 
-![Workflow overview](screenshots/Cworkflow.png)
-![Output1](screenshots/Chat1.png)
-![Output2](screenshots/Chat2.png)
-![Output3](screenshots/Chat3.png)
-![Final output](screenshots/Calendar.png)
+![Workflow overview](Screenshots/Cworkflow.png)
+![Output1](Screenshots/Chat1.png)
+![Output2](Screenshots/Chat2.png)
+![Output3](Screenshots/Chat3.png)
+![Final output](Screenshots/Calendar.png)
